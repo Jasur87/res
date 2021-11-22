@@ -610,7 +610,7 @@ header .icons #menu-bars {
     height: auto;
     width: 100%;
   }
-  @media (max-width: 441px) {
+  @media (max-width: 700px) {
     html {
       font-size: 50%;
     }
