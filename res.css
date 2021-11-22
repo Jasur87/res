@@ -549,7 +549,7 @@ header .icons #menu-bars {
   text-align: center;
 }
 /* media quiries */
-@media (max-width: 991px) {
+@media (max-width: 700px) {
   html {
     font-size: 55%;
   }
@@ -560,7 +560,7 @@ header .icons #menu-bars {
   section {
     padding: 2rem;
   }
-  @media (max-width: 768px) {
+  @media (max-width: 700px) {
   }
   header .icons #menu-bars {
     display: inline-block;
@@ -599,7 +599,7 @@ header .icons #menu-bars {
 .home .home-slider .slide .content h3 {
   font-size: 5rem;
 }
-@media (max-width: 991px) {
+@media (max-width: 700px) {
   html {
     font-size: 50%;
   }
