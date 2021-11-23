@@ -599,6 +599,13 @@ header .icons #menu-bars {
 .home .home-slider .slide .content h3 {
   font-size: 5rem;
 }
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
 @media (max-width: 600px) {
   html {
     font-size: 50%;
